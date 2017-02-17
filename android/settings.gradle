@@ -1,0 +1,3 @@
+rootProject.name = 'meituan_ui'
+
+include ':app'
